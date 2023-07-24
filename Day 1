@@ -1,0 +1,3 @@
+pokemon = input("What is your favorite  pokemon?")
+
+print("Your favorite Pokemon is " + pokemon)
